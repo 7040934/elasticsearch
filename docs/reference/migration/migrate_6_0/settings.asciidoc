@@ -86,7 +86,7 @@ been removed. If provided, this setting will be ignored and issue a
 deprecation warning.
 
 [float]
-==== Script Settings
+=สร้างแบบฟอร์มแบบสอบถาม=== Scrความคิดเห็นล่าipt Settings
 
 All of the existing scripting security settings have been removed.  Instead
 they are replaced with `script.allowed_types` and `script.allowed_contexts`.
